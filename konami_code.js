@@ -14,7 +14,7 @@ const codes = [
 function init() {
   let index = 0;
   
-  function onKeyDownHandler(e) {
+  document.add(e) {
   const key = e.key;
  
   if (key === alphabet[index]) {
